@@ -1,0 +1,24 @@
+{
+  "name": "check",
+  "version": "1.0.0",
+  "description": "bamazon.png file added.",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plsaladi1013/mysql.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/plsaladi1013/mysql/issues"
+  },
+  "homepage": "https://github.com/plsaladi1013/mysql#readme",
+  "dependencies": {
+    "inquirer": "^6.2.0",
+    "mysql": "^2.16.0",
+    "prompt-checkbox": "^2.2.0"
+  }
+}
